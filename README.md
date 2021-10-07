@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>CSS Homework</title>
-  <link rel="stylesheet" href="/Users/georgiahowe/Desktop/Code First Girls/Student Materials/Session 2_CSS Basics/Homework 2/Homework2 stylesheet.css" type="text/css">
+  <link rel="stylesheet" href="https://github.com/GeorgiaHowe9/GeorgiaHowe9-CSS.github.io/blob/72f73bc46fac8b69976042e88b182bccaeaf4d6a/Homework2%20stylesheet.css" type="text/css">
 </head>
 
 <header>
