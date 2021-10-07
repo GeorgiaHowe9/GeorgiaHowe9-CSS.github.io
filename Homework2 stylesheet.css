@@ -1,0 +1,142 @@
+.nav {
+    background-color:#042A38;
+    background-size: cover;
+    color: white;
+    width: auto;
+    height: 50px;
+    font-family: monospace;
+    font-size: 17px;
+    letter-spacing: 2mm;
+    
+}
+
+.list {
+    display: inline-flex;
+    list-style: none;
+    margin: 10px;
+}
+
+header {
+    background-color: black;
+    height: auto;
+    width: 100%;
+    position: relative;
+    top: 0;
+    left:0;
+}
+
+
+main {
+    position: relative;
+    top: auto;
+    left: auto;
+    font-family: monospace;
+
+}
+
+.image {
+    height: auto;
+    position: relative;
+    align-items: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 680px;
+}
+
+.bannerImage {
+    z-index: -1;
+    width: 100%;
+    position: relative;
+    top: auto;
+    left: auto;
+    opacity: 0.5;
+    border-color: #042A38;
+    border-top-style: solid;
+    border-bottom-style: solid ;
+    border-width: 10px;
+    
+}
+
+h1 {
+text-align: center;
+font-size: 8vmax;
+
+position: absolute;
+font-family: monospace;
+margin: 95px;
+color: #042A38;
+}
+
+.bannerContainer {
+    width: 100%;
+    text-align: center;
+}
+
+.btn {
+    background-color:white;
+    text-align: center;
+    align-content: flex-end;
+    color: #042A38;
+    font-family: monospace;
+    padding: 10px;
+    width: 20%;
+    font-size: 15px;
+    position: relative;
+}
+
+.btn:hover {
+    background-color:#042A38;
+    text-align: center;
+    align-content: flex-end;
+    color: white;
+    font-family: monospace;
+    padding: 10px;
+    width: 20%;
+    font-size: 15px;
+    position: relative;
+}
+
+.aboutHeading {
+    font-family: monospace;
+    border-color: #042A38;
+    border-top-style: solid;
+    border-bottom-style: solid ;
+    border-width: 10px;
+    font-size: 40px;
+    color:white;
+    letter-spacing: 2px;
+    opacity: 0.8;
+    text-align: center;
+    vertical-align: center;
+    height: 100px;
+    margin-top: auto;
+    padding-top: 30px;
+    background-image: url("https://images.pexels.com/photos/942802/pexels-photo-942802.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260");
+
+}
+
+.paragraph {
+    font-family: monospace;
+    align-content: center;
+    text-align: center;
+    color: white;
+    width: 580px;
+    margin: auto;
+    letter-spacing: 2px;
+    background-color:#042A38;
+    padding: 50px;
+    margin-bottom: auto;
+}
+
+footer {
+    background-color:#042A38;
+    color: white;
+    height: 100px;
+    font-family: monospace;
+    align-content: center;
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+
+}
